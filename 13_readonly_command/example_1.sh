@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /usr/bin/bash -x
 
 # we can make both variable and functions readonly
 
