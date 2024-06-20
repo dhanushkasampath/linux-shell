@@ -2,7 +2,7 @@
 
 # Print no 1 to 10 using while loops
 
-#Method 1
+#Method 1 --------------------------------------------------
 n=1 # set the initial value
 
 while [ $n -le 10 ] # evaluate a condition
@@ -13,7 +13,7 @@ do
 done
 
 echo
-#Method 2
+#Method 2 ------------------------------------------------
 m=1 # set the initial value
 
 while [ $m -le 10 ] # evaluate a condition
@@ -24,7 +24,7 @@ done
 
 
 echo
-#Method 3
+#Method 3 ------------------------------------------------
 p=1 # set the initial value
 
 while (( $p <= 10 )) # evaluate a condition             *** change is at this line *******
