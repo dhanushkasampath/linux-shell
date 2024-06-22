@@ -1,0 +1,6 @@
+And some are different
+It contains some repeated lines
+It contains some repeated lines
+It contains some repeated lines
+It contains some repeated lines
+This is a text file for the uniq command

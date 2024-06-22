@@ -1,0 +1,2 @@
+And some are different
+This is a text file for the uniq command
