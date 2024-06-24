@@ -11,7 +11,7 @@ echo -e "Enter the name of the file : \c"  #\c is used to keep the cursor on the
 read file_name
 
 # -d is for directory exist or not
-# -c is for charactor specific file exist or not
+# -c is for character specific file exist or not
 # -b is for blob specific file exist or not
 # -e is for file exist or not
 # -s is for file is empty or not
