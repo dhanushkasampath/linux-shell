@@ -24,3 +24,9 @@ echo "updated array: ${os[@]}"
 # Gaps in the array are ok in bash scripting.
 # That means we can set values even to os[10]. when printing the result it will skip
 # the null values and show only values in order
+
+# Read array elements
+
+echo "-----------------------------------------"
+read -a arr # we can use this method to read an input as an array; eg: abc def gfi
+echo "${arr[@]}"
