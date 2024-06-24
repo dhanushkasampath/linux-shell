@@ -33,7 +33,7 @@ echo "--------------------------------------------------------------------------
 cat fname.txt | paste - -  # This will merge lines and print in 2 rows too
 
 echo "---------------------------------------------------------------------------"
-cat fname.txt | paste -d " " - - -  # This will merge lines and print in 3 rows too
+cat fname.txt | paste -d ";" - - -  # This will merge lines and print in 3 rows too
 
 #3. -s  -> Merges all lines of the file into a single line, tab is the default delimiter.
 echo "---------------------------------------------------------------------------"
